@@ -1,0 +1,12 @@
+Customer_ID,Age,Gender,City,Product_Category,Price,Quantity,Purchase_Date,Payment_Method,Discount,Rating
+C001,22,Male,Bangalore,Electronics,15000,1,2025-01-12,UPI,10,4
+C002,35,Female,Chennai,Clothing,2000,2,2025-01-15,Card,5,5
+C003,29,Male,Hyderabad,Groceries,500,5,2025-01-16,Cash,0,3
+C004,42,Female,Mumbai,Electronics,30000,1,2025-01-20,UPI,15,4
+C005,23,Male,Bangalore,Clothing,,3,2025-02-02,Card,10,5
+C006,31,Female,Delhi,Groceries,700,4,2025-02-10,Cash,0,2
+C007,28,Male,Chennai,Electronics,12000,1,2025-02-14,UPI,20,4
+C008,45,Female,Mumbai,Clothing,2500,2,2025-02-18,Card,5,3
+C009,36,Male,Delhi,Groceries,800,6,2025-02-20,Cash,0,4
+C010,27,Female,Bangalore,Electronics,18000,1,2025-02-25,UPI,10,5
+C010,27,Female,Bangalore,Electronics,18000,1,2025-02-25,UPI,10,5
