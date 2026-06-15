@@ -22,3 +22,10 @@ This project focuses on cleaning and analyzing retail data using Python.
 
 ## 🚀 Outcome
 Learned data preprocessing and visualization techniques.
+
+## 🤖 Task 2: Machine Learning Model
+
+- Built classification models (Decision Tree, Random Forest)
+- Predicted high-value customers
+- Evaluated using accuracy and confusion matrix
+- Visualized feature importance
